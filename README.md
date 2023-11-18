@@ -4,8 +4,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/olaleksi/results-summary-component-main/)
-- Live Site URL: [Add live site URL here](https://olaleksi.github.io/results-summary-component-main/)
+- Solution URL: [Solution URL ](https://github.com/olaleksi/results-summary-component-main/)
+- Live Site URL: [Live site URL ](https://olaleksi.github.io/results-summary-component-main/)
 
 ## My process
 
@@ -24,8 +24,8 @@ i learned more about css positioning and flex-box
 
 ## Author
 
-- Website - [Add your name here](https://github.com/olaleksi)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - (https://github.com/olaleksi)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/olaleksi)
 
 
 
